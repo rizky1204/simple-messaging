@@ -1,0 +1,15 @@
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/exception/SimpleMessagingException.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/vo/MessageVO.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/vo/SentItemMessageVO.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/vo/ListMessageVO.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/domain/Base.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/Application.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/domain/Conversation.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/requesthandle/StatusCode.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/requesthandle/RestUtil.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/controller/ConversationController.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/requesthandle/RequestHandler.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/vo/ResponseVO.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/vo/SendMessageVO.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/repository/ConversationRepository.java
+/Users/mac/Documents/RIZKY/simple-messaging/backend/src/main/java/system/service/ConversationService.java
