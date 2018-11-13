@@ -1,4 +1,3 @@
-# simple-messaging
 # Features
 - Send Message
 - Inbox
